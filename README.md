@@ -9,5 +9,5 @@ javac Main.java -d ./build/RicochetRobots
 
 And to launch:
 <code>
-java ./build/RicochetRobots
+java ./build/RicochetRobots/Main.class
 </code>
